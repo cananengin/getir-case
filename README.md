@@ -1,5 +1,10 @@
 # getir-case
 ## Request url
+You can see the app with this url
+
+https://getir-study-case.herokuapp.com
+
+**Request url**
 
 https://getir-study-case.herokuapp.com/records
 
